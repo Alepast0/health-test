@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726786995599",
+    "project_id": "health-test-f8d12",
+    "storage_bucket": "health-test-f8d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726786995599:android:36c458ef5b09e0beff07fa",
+        "android_client_info": {
+          "package_name": "com.health_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726786995599-3m2697v5f3s0ujiiln8e0temfu3btsud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.health_test",
+            "certificate_hash": "da87ef35fa1bdc99ef67852a995da5d1207ae0e5"
+          }
+        },
+        {
+          "client_id": "726786995599-a3cdaleclok7fpcvfnjiqksh2b0ko8e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCditLC0dHqXfF2yUX0v-fEzHn1BycHqhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726786995599-6somhoe1o8s2cd0jdpjq7r33hii790pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
